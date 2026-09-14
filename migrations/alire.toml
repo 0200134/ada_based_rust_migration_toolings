@@ -1,0 +1,9 @@
+name = "migrations"
+description = "rust edition migration toolings by ada"
+version = "0.1.0-dev"
+
+authors = ["clover_hanjinhee"]
+maintainers = ["clover_hanjinhee <0200134hjh@gmail.com>"]
+licenses = "MIT OR Apache-2.0 WITH LLVM-exception"
+website = ""
+tags = []
